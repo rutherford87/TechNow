@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Why MVC is so important",
+    "description": "MVC allows deveopers to maintain a true spearation of concerns...."
+  },
+  {
+    "name": "Authentication vs Authorization",
+    "description": "Ther is a difference bewteen authentication and authorization!"
+  },
+  {
+    "name": "Object-Relational Mapping",
+    "description": "I have really loved learning about ORMs. ITs'r really simplified the way i create queries in SQL!"
+  }
+]
