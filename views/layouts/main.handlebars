@@ -12,11 +12,10 @@
 <body>
   <div class="flex-column justify-space-around">
     <header class="display-flex justify-space-between align-center p-2">
-      <h1>
-        <span role="img" aria-label="money">💸</span>
-        <a href="/">What's new in technology?!</a>
-      </h1>
-      <nav>
+      <h1 class='display-inline'>
+        <a href="/">TechNow! What's new, now in technology</a>
+        <nav>
+              <nav>
         <!-- Conditionally render login or logout links -->
         {{#if logged_in}}
         <a href="/profile">profile</a> |
@@ -25,6 +24,9 @@
         <a href="/login">login</a>
         {{/if}}
       </nav>
+        </nav>
+      </h1>
+
     </header>
     <main class="container container-fluid mt-5">
       <!-- Render the sub layout -->
