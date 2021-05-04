@@ -1,12 +1,18 @@
 [
     {
-      "comment": "Nice post"
+      "comment": "Nice post",
+      "user_id": "2",
+      "post_id": "2"
     },
     {
-        "comment": "Bravo"
+        "comment": "Bravo",
+        "user_id": "2",
+        "post_id": "2"
     },
     {
-        "comment": "Excellent"
+        "comment": "Excellent",
+        "user_id": "2",
+        "post_id": "2"
     }
   ]
   
